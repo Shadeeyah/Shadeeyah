@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ologolo Oluwadamilola Halimat  
+# 👋 Hi, I'm Ologolo Oluwadamilola  
 
 ### 💻 Cybersecurity Enthusiast | Administrative Professional | Cybersecurity Analyst  
 
