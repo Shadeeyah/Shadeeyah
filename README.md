@@ -10,7 +10,7 @@ I’m committed to continuous learning, improving my technical skills, and build
 
 
 ## 🧠 About Me  
-- B.Sc. in Physical and Health Education** – Lagos State University  
+- B.Sc. in Physical and Health Education – Lagos State University  
 - Experience in Cybersecurity, Executive Support, and Customer Service  
 - Focused on network defence, digital security, and ethical security practices
 - Passionate about digital security awareness and continuous self-improvement
@@ -20,7 +20,7 @@ I’m committed to continuous learning, improving my technical skills, and build
 
 ## 🛡️ Core Skills  
 
-### 🔐 Cybersecurity Skills  
+🔐 Cybersecurity Skills  
 - Network Security & Access Control  
 - Vulnerability Assessment  
 - Linux (Kali) & Command Line  
@@ -30,7 +30,7 @@ I’m committed to continuous learning, improving my technical skills, and build
 - Cyber Hygiene & Data Protection  
 - System Monitoring & Log Review  
 
-### 🧰 Professional Skills  
+🧰 Professional Skills  
 - Executive & Administrative Support  
 - Customer Service & Client Engagement  
 - Communication & Documentation  
@@ -41,7 +41,7 @@ I’m committed to continuous learning, improving my technical skills, and build
 
 ---
 
-## 🚀 Currently Working On  
+🚀 Currently Working On  
 - Hands-on Networking & Security Projects using Cisco Packet Tracer 
 - Strengthening ethical hacking fundamentals  
 - Building a cybersecurity project portfolio  
@@ -50,7 +50,7 @@ I’m committed to continuous learning, improving my technical skills, and build
 
 ---
 
-## 📫 Connect With Me  
+ 📫 Connect With Me  
 📧 Email: [ologolodharmeey@gmail.com] (mailto:ologolodharmeey@gmail.com)  
 📍 Location: Ontario, Canada  
 🔗 LinkedIn: [www.linkedin.com/in/ologolohalimat-3898a9280] (https://www.linkedin.com/in/ologolohalimat-3898a9280)  
