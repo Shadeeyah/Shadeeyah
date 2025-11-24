@@ -3,29 +3,29 @@
 ### 💻 Cybersecurity Enthusiast | Administrative Professional | Cybersecurity Analyst  
 
 I’m currently based in **Ontario, Canada**, and I’m on an exciting journey to becoming a **Cybersecurity Analyst**.  
-With a background in administration and customer service, I’ve developed strong analytical, problem-solving, and organizational skills — all of which now fuel my growing passion for **network security and digital defense**.  
+With a background in administration and customer service, I’ve developed strong analytical, problem-solving, and organizational skills, all of which now fuel my growing passion for **network security and digital defence**.  
 
 I’m all about learning, building, and protecting systems while staying curious about how the digital world operates behind the scenes.  
 
 ---
 
 ### 🧠 About Me
-- 🎓 **B.Sc. in Physical and Health Education** – Lagos State University (2022)  
-- 💬 Experienced in **Administration, Customer Service, and Network Projects**  
-- 🧩 Currently learning **Cybersecurity Fundamentals, Network Security, and Ethical Hacking**  
-- 🌍 Passionate about digital security awareness and continuous self-improvement  
-- 🎧 Music, movies, and family keep me grounded outside the tech world  
+- B.Sc. in Physical and Health Education** – Lagos State University (2022)  
+- Experienced in **Administration, Customer Service, and Network Projects**  
+- Currently learning **Cybersecurity Fundamentals, Network Security, and Ethical Hacking**  
+- Passionate about digital security awareness and continuous self-improvement  
+- Music, movies, and family keep me grounded outside the tech world  
 
 ---
 
 ### 🛡️ Core Skills  
-#### 🧰 Administrative & Professional Skills
+🧰 Administrative & Professional Skills
 - Office Administration & Executive Support  
 - Client & Customer Relationship Management  
 - Time Management & Team Collaboration  
 - Communication, Documentation & Confidentiality  
 
-#### 🔐 Cybersecurity & Technical Skills
+🔐 Cybersecurity & Technical Skills
 - Network Security Fundamentals  
 - Access Control & Firewalls  
 - Threat Detection & Risk Analysis  
@@ -43,7 +43,7 @@ I’m all about learning, building, and protecting systems while staying curious
 
 ---
 
-### 📊 GitHub Stats  
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OlogoloOluwadamilolaHalimat&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
