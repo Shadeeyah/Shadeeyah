@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ologolo Oluwadamilola  
+# 👋 Hi, I'm Oluwadamilola Ologolo  
 
 ### 💻 Cybersecurity Enthusiast | Administrative Professional | Cybersecurity Analyst  
 
