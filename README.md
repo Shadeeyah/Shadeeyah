@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ologolo Oluwadamilola Halimat  
 
-### 💻 Cybersecurity Enthusiast | Administrative Professional | Future Cybersecurity Analyst  
+### 💻 Cybersecurity Enthusiast | Administrative Professional | Cybersecurity Analyst  
 
 I’m currently based in **Ontario, Canada**, and I’m on an exciting journey to becoming a **Cybersecurity Analyst**.  
 With a background in administration and customer service, I’ve developed strong analytical, problem-solving, and organizational skills — all of which now fuel my growing passion for **network security and digital defense**.  
